@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Selim Çınar.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        Currently learning to walk in ML/DL .<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/selim-%C3%A7%C4%B1nar-a85a25220/">
