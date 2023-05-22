@@ -13,14 +13,14 @@
     <a href="https://www.kaggle.com/selimnar">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
-   <a href=" https://www.btkakademi.gov.tr/portal/profile">
+   <a href="https://www.btkakademi.gov.tr/portal/profile">
         <img src="https://img.shields.io/badge/Btkakademi-blue?style=flat-square" alt="Btkakademi">
     </a>
  
-   <a href=" https://www.udemy.com/home/my-courses/learning/">
+   <a href="https://www.udemy.com/home/my-courses/learning/">
         <img src="https://img.shields.io/badge/Udemy-blue?style=flat-square&logo=udemy" alt="Udemy">
     </a>
-       <a href="   https://academy.patika.dev/profile">
+       <a href="https://academy.patika.dev/profile">
         <img src="https://img.shields.io/badge/Patika-blue?style=flat-square&logo=patika" alt="Udemy">
     </a>
 
