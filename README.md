@@ -46,6 +46,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/SELIMCNR)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/SELIMCNR)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/SELIMCNR)
+[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/SELIMCNR)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/SELIMCNR)
@@ -68,6 +69,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/SELIMCNR)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/SELIMCNR)
 [![Pardus](https://img.shields.io/badge/Pardus-black?style=for-the-badge&logo=Pardus)](https://github.com/SELIMCNR)
+[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://github.com/SELIMCNR)
 
 <details>
 <p align="center">
