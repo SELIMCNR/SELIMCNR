@@ -14,15 +14,15 @@
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
    <a href=" https://www.btkakademi.gov.tr/portal/profile">
-        <img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fbtkakademi%2F&psig=AOvVaw3xII1qm85i6GH9A3aLSnZM&ust=1684826084774000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCKoLOwiP8CFQAAAAAdAAAAABAE" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Btkakademi-blue?style=flat-square" alt="Btkakademi">
     </a>
  
    <a href=" https://www.udemy.com/home/my-courses/learning/">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Udemy-blue?style=flat-square&logo=udemy" alt="Udemy">
     </a>
   
    <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/btk02672">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Turkcell-blue?style=flat-square&logo=turkcell" alt="Turkcell">
     </a>
     <a href="https://stepik.org/users">
         <img src="https://img.shields.io/badge/Stepik-blue?style=flat-square&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA2ADYANhLVLGJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADNUlEQVRIx8VWPU/rSBS9NsRPyMZGfGQLhDWKiKVoBVIKChAEKamo+QOvfQXFSm5AiJJ2ixVe0RCFKpaslKZZUbwmWCBRGShoKB1LSAEl8WKTs1WsOB/w3ha7V5rCY8/xnTP3nDtEH4QgCHOqqj5IkgSe50FEICLwPA9JkqCq6oMgCHP0b4IxdphKpb73QMeNVCr1nTF2+FPgmUzGFEURn4H3hiiKyGQy5iisif6H5eXlL7Is/9FoNL62Wq14nud5KhaLtLu7SxsbGzQ1NUVPT08EgIiIwjCkt7e3XxcXF3+Zn5//6/n5+X0cLYYsy3FmHMeBiGAYBlzXRRRFiKIIruvi9PQUMzMziZ3IsgzGmPFTtNRqNbTbbQzG2dkZJEn6MboYY4eD4NlsFqZpIggCAEAURfB9H57nwbZtZLPZD88kPnhBEOb6q6VHi2ma6HQ6MXi9Xsfm5mb8TT6fh67r0HUdS0tLI6tLEIQ5UlX1YRQtvcy73S4cx0GhUAARgTGGarUKz/PQbDbRbDbheR5OTk6GfqKq6gMpipIQkGEYMedRFMFxHORyORARNE2DZVkYFe12G4ZhJASpKAqof6JUKsF13QQtvczT6TRs206A3tzc4P7+HmEYAgBc10WpVEokTP1b0nUdURQBAHzfjznXNA22bcfvAMCyLKytrWFrawu+7wMAWq0W9vb2EjTxn6l6ZWWFjo+PaWdnhyYmJuj9/Z0uLi7o4OCArq+vY7GNjXEUhWGIu7s7XF1dJWixbRvpdBpEhEKhgHq9Hu9sJEX9YuE4DuVyOa6gwbAsC5qmgYiQy+XgOE4MPvaQR5VppVJBo9HAy8sLXl9f4XkeqtUqGGNx5o7joNvtAgCCIECtVhtdpuOEtrq6iv39fRwdHWF7eztetL6+nqCl0+nANM3E2oTQxlnFoG3Ytg3P8+D7fgweBAFM0xyyjYRVfGZ209PTqFQqQ+cxjpaPesOQXRMRZmdncX5+PmTX5XJ5iJZRds0NNpwoin73ff9bf8PhOI6KxSLl83kiIrq9vaXLy8uEBkRRpIWFhT8nJyd/e3x8/Ps/a5n/T9MfvLYoijJ0bVEU5YeuLf8A/blSgAQ62zgAAAAASUVORK5CYII=" alt="Stepik">
