@@ -42,7 +42,6 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/SELIMCNR)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SELIMCNR)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/SELIMCNR)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/SELIMCNR)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/SELIMCNR)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/SELIMCNR)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/SELIMCNR)
@@ -68,6 +67,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SELIMCNR)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/SELIMCNR)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/SELIMCNR)
+[![Pardus](https://img.shields.io/badge/Pardus-black?style=for-the-badge&logo=Pardus)](https://github.com/SELIMCNR)
 
 <details>
 <p align="center">
