@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
    <a href=" https://www.btkakademi.gov.tr/portal/profile">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fbtkakademi%2F&psig=AOvVaw3xII1qm85i6GH9A3aLSnZM&ust=1684826084774000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCKoLOwiP8CFQAAAAAdAAAAABAE" alt="Kaggle">
     </a>
  
    <a href=" https://www.udemy.com/home/my-courses/learning/">
