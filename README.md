@@ -20,7 +20,10 @@
    <a href=" https://www.udemy.com/home/my-courses/learning/">
         <img src="https://img.shields.io/badge/Udemy-blue?style=flat-square&logo=udemy" alt="Udemy">
     </a>
-  
+       <a href="   https://academy.patika.dev/profile">
+        <img src="https://img.shields.io/badge/Patika-blue?style=flat-square&logo=patika" alt="Udemy">
+    </a>
+
    <a href="https://gelecegiyazanlar.turkcell.com.tr/kisi/btk02672">
         <img src="https://img.shields.io/badge/Turkcell-blue?style=flat-square&logo=turkcell" alt="Turkcell">
     </a>
