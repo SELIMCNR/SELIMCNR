@@ -2,9 +2,9 @@
 
 - :iphone: **Kotlin Mobil Developer - Software Engineer**
 
-- 🔭 I’m currently working on **Android, Flutter and Data Science**
+- 🔭 I’m currently working on **Android and Data Science**
 
-- 🌱 I’m currently learning ** Kotlin **
+- 🌱 I’m currently learning ** Kotlin  **
   
 - 👨‍💻 All of my projects are available at : https://github.com/SELIMCNR?tab=repositories
 
