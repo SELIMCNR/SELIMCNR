@@ -6,13 +6,12 @@
 
 - 🌱 I’m currently learning ** Kotlin **
   
-- 👨‍💻 All of my projects are available at : [https://github.com/gultendogan0?tab=repositories](https://github.com/SELIMCNR?tab=repositories)
+- 👨‍💻 All of my projects are available at : https://github.com/SELIMCNR?tab=repositories
 
 - 📫 How to reach me : btk02672@gmail.com
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Selim Çınar.<br>
         Currently learning to walk in ML/DL .<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
