@@ -55,7 +55,7 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/SELIMCNR)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/SELIMCNR)
 [![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/SELIMCNR)
-[![C-Sharp]
+[![C-Sharp](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/SELIMCNR)
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/SELIMCNR)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/SELIMCNR)
