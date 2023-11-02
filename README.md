@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on **Android and Data Science**
 
-- 🌱 I’m currently learning ** Kotlin  **
-  
+-
 - 👨‍💻 All of my projects are available at : https://github.com/SELIMCNR?tab=repositories
 
 - 📫 How to reach me : btk02672@gmail.com
