@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Selim Çınar</h1>
 
-- :iphone: **Kotlin Mobil Developer - Software Engineer**
+- :iphone: **CyberSecurity - Software Engineer**
 
-- 🔭 I’m currently working on **Android and Data Science**
+- 🔭 I’m currently working on **CyberSecurtiy and Data Science**
 
 -
 - 👨‍💻 All of my projects are available at : https://github.com/SELIMCNR?tab=repositories
