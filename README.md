@@ -7,7 +7,9 @@
 - 👨‍💻 All of my projects are available at : https://github.com/SELIMCNR?tab=repositories
 
 - 📫 How to reach me : btk02672@gmail.com
--  Github page site : https://selimcnr.github.io/website-tr/
+-  Github new page site : https://selimcnr.github.io/website-tr/
+-  Github old page site : https://selimcnr.github.io/CinarMarket/
+-  Github old page site : https://selimcnr.github.io/GymWebsite/
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
