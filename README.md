@@ -6,7 +6,7 @@
 - 👨‍💻 My key projects (commercial & open-source) are managed under the **Codexia GitHub Organization:** [Codexia Organization](https://github.com/CodexiaTechHQ)  
 
 - 📫 Business Contact: **codexiatechhq@gmail.com**  
-- 🌐 Professional Website/Portfolio: [https://codexia.com](https://codexia.com)  
+- 🌐 Professional Website/Portfolio: [[https://codexia.com](https://codexia.com) ](https://codexia-landing-page.onrender.com/) 
 
 <p align="center">
     <b>Welcome to Codexia's Core Developer Page!</b><br><br>
