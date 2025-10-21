@@ -1,31 +1,35 @@
 <h1 align="center">Hi 👋, I'm Selim Çınar (Founder of Codexia)</h1>
 
-- 🛡️ **Codexia:** The Core of Secure & Intelligent Solutions.
-- 🔭 Currently leading **Codexia** projects: AI integration & Custom Security Architectures.
+- 🛡️ **Codexia:** The Core of Secure & Intelligent Solutions  
+- 🔭 Currently leading **Codexia** projects: AI Integration & Custom Security Architectures  
 
-- 👨‍💻 My key projects (commercial & open-source) are managed under the **Codexia GitHub Organization:** **[Codexia Organizasyon Linki Buraya Gelecek]**
+- 👨‍💻 My key projects (commercial & open-source) are managed under the **Codexia GitHub Organization:** [Codexia Organization](https://github.com/CodexiaTechHQ)  
 
-- 📫 How to reach me for business: **selim.cinar@codexia.com** (Lütfen kurumsal e-posta ile değiştirin)
-- 🌐 Professional Website/Portfolio: **[Codexia.com veya tek güncel portfolyo linki]** (Eski CinarMarket/GymWebsite linklerini kaldırın)
+- 📫 Business Contact: **codexiatechhq@gmail.com**  
+- 🌐 Professional Website/Portfolio: [https://codexia.com](https://codexia.com)  
 
 <p align="center">
-    <b>Welcome to Codexia's Core Developer Page!</b><br><br>
-    <i>
-        Köklü Yazılım uzmanlığını (Web/Mobil), ileri Siber Güvenlik ve Yapay Zeka (ML/DL) çözümleriyle birleştiriyorum.<br>
-        Open to collaborating on interesting and innovative projects. **For business inquiries, please visit my organization page.**
-    </i><br>
-    <a href="https://www.linkedin.com/in/selim-%C3%A7%C4%B1nar-a85a25220/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.kaggle.com/selimnar">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
-       <a href="https://www.hackerrank.com/btk02672?hr_r=1">
-        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=hackerrank" alt="Hackerrank">
-    </a>
+    <b>Welcome to Codexia's Core Developer Page!</b><br><br>
+    <i>
+        Combining deep expertise in Web/Mobile Development with advanced Cybersecurity and Artificial Intelligence (ML/DL) solutions.<br>
+        Open to collaborating on innovative and impactful projects.  
+        <br><br>
+        <b>For business inquiries, please visit my organization page.</b>
+    </i><br><br>
+    <a href="https://www.linkedin.com/in/selim-%C3%A7%C4%B1nar-a85a25220/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.kaggle.com/selimnar">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+    </a>
+    <a href="https://www.hackerrank.com/btk02672?hr_r=1">
+        <img src="https://img.shields.io/badge/Hackerrank-blue?style=flat-square&logo=hackerrank" alt="Hackerrank">
+    </a>
 </p>
 
-### Codexia Core Technologies (Güvenlik, Yapay Zeka, Web)
+---
+
+### ⚡ Codexia Core Technologies (Security, AI, Web)
 
 #### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/SELIMCNR)
@@ -47,32 +51,31 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/SELIMCNR)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SELIMCNR)
 
+---
+
 <details>
 <p align="center">
-  <a href="https://github.com/SELIMCNR">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SELIMCNR&theme=transparent" />
-  </a>
-  <a href="https://github.com/SELIMCNR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SELIMCNR&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/SELIMCNR">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SELIMCNR&theme=transparent" />
-  </a>
-  <a href="https://github.com/SELIMCNR">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELIMCNR&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  <a href="https://github.com/SELIMCNR">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SELIMCNR&theme=transparent" />
+  </a>
+  <a href="https://github.com/SELIMCNR">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SELIMCNR&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/SELIMCNR">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SELIMCNR&theme=transparent" />
+  </a>
+  <a href="https://github.com/SELIMCNR">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SELIMCNR&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/SELIMCNR">
-    <img src="https://komarev.com/ghpvc/?username=SELIMCNR&color=blue&style=flat)" />
-  </a>
+  <a href="https://github.com/SELIMCNR">
+    <img src="https://komarev.com/ghpvc/?username=SELIMCNR&color=blue&style=flat)" />
+  </a>
 </p>
 
 <p align="center">
-💡 Codexia Value Proposition: Building custom Web/Mobile apps with embedded AI for proactive security.
+💡 <b>Codexia Value Proposition:</b> Building custom Web/Mobile apps with embedded AI for proactive security.
 </p>
-
----
-
